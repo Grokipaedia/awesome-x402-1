@@ -704,7 +704,9 @@ Adjacent protocols and standards.
 
 - 21.co Micropayments - Early Bitcoin micropayment attempt (2015).
 - [HTTP 402 Proposal](https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html) - Original RFC (1999).
+## Security & Authorization
 
+[x402HQS](https://github.com/Grokipaedia/x402HQS) - IBA Intent Bound Authorization — pre-execution authorization layer for x402. Signed intent certificates, shard token delegation for sub-agents, WitnessBound immutable audit chain. Patent GB2603013.0. Apache 2.0.
 ## 🤝 Contributing
 
 Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
